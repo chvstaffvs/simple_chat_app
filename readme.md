@@ -1,4 +1,4 @@
-## Simple Chat app Made with websocket
+# Simple Chat app Made with websocket
 
 ## Tecnologies:
 
